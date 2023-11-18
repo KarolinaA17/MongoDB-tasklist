@@ -1,0 +1,19 @@
+{
+  "name": "actividad-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolinaA17/MongoDB-tasklist.git"
+  },
+  "author": "Karolina Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolinaA17/MongoDB-tasklist/issues"
+  },
+  "homepage": "https://github.com/KarolinaA17/MongoDB-tasklist#readme"
+}
