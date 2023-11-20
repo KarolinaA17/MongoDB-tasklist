@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/KarolinaA17/MongoDB-tasklist/issues"
   },
-  "homepage": "https://github.com/KarolinaA17/MongoDB-tasklist#readme"
+  "homepage": "https://github.com/KarolinaA17/MongoDB-tasklist#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
 }
